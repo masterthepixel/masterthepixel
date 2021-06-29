@@ -5,6 +5,7 @@
 <br>- ✍🏿  &nbsp; I’m currently learning Ruby on Rails and Go now.
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=masterthepixel&&show_icons=true&theme=dark&hide=issues&count_private=true&include_all_commits=true&line_height=24.5)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterthepixel&layout=compact&theme=dark&langs_count=10)
 
 #### My Major Skills
@@ -37,7 +38,7 @@
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Kubernetes-0052CC?style=flat-square&logo=Github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Kubernetes-0052CC?style=flat-square&logo=Kubernetes&logoColor=white"/>
   </p>
   
   #### Interests
