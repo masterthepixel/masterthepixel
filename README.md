@@ -3,11 +3,14 @@
 <h4>- 👨🏿‍💻  &nbsp; I was a maintainer and system administrator of 20+ booking and social websites.
 <br>- 💻  &nbsp; I have been focusing on `Web` & `Mobile` front-end development with pixel-perfect design and smooth animations.
 <br>- ✍🏿  &nbsp; I’m currently learning Ruby on Rails and Go now.
-  
+<br>
+<br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=masterthepixel&&show_icons=true&theme=dark&hide=issues&count_private=true&include_all_commits=true&line_height=24.5)
 <br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterthepixel&layout=compact&theme=dark&langs_count=10)
-
+<br>
+<br>
 #### My Major Skills
 
 <code title='React'><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
