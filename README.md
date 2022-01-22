@@ -7,12 +7,11 @@
 
 <br>
 <br>
-<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=masterthepixel&&show_icons=true&theme=dark&hide=issues&count_private=true&include_all_commits=true&line_height=24.5)
 <br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterthepixel&layout=compact&theme=dark&langs_count=10)
-
 
   
 #### My Major Skills
