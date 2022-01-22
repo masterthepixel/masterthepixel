@@ -1,4 +1,4 @@
-### Hi there 👋🏿
+### Hi there
 
 <h4>- 👨🏿‍💻  &nbsp; I was a maintainer and system administrator of 20+ booking and social websites.
 <br>- 💻  &nbsp; I have been focusing on `Web` & `Mobile` front-end development with pixel-perfect design and smooth animations.
