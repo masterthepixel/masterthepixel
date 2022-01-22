@@ -1,8 +1,9 @@
 ### Hi there
 
-<h4>- 👨🏿‍💻  &nbsp; I was a maintainer and system administrator of 20+ booking and social websites.
-<br>- 💻  &nbsp; I have been focusing on `Web` & `Mobile` front-end development with pixel-perfect design and smooth animations.
-<br>- ✍🏿  &nbsp; I’m currently learning Ruby on Rails and Go now.
+- Very Strong and Proficient in React, Vue and React Native with up-to-date technology, feature, and codebases from concept through implementation and deployment.
+- Passionate team member and application manager in agile methodology, TDD, and CI/CD environment.
+- Focus on a cooperative sprint, and collaborating with team members as well as other teams to foster an innovative, problem-solving environment.
+- Self-learning, providing technical solutions, participating in the implementation, contributing insights and ideas for positive results and customer satisfaction.
 
 <br>
 <br>
