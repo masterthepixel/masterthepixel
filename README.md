@@ -49,4 +49,4 @@
   
   #### Interests
   
-  `#artificial intelligence`, `#machine learning`, `#python`, `#animations`, `#investing`, `#investing`, `#tech`, `#movies`, `#gifs`, `#emojis`, `#cto`, `#ux`, `#growing plants`, `#gaming`
+  `#artificial intelligence`, `#machine learning`, `#python`, `#animations`, `#investing`, `#tech`, `#movies`, `#gifs`, `#emojis`, `#cto`, `#ux`, `#growing plants`, `#gaming`
